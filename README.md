@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=600&lines=Desenvolvedor+Mobile;Especialista+iOS+%26+Android;Transformando+Ideias+em+Apps" alt="Typing SVG" />
 </h1>
 
+[![Website](https://img.shields.io/badge/🌐_Website-vitorcorreia.com.br-FF6B35?style=for-the-badge&labelColor=1A2332)](https://www.vitorcorreia.com.br)
+[![Email](https://img.shields.io/badge/✉️_Email-Fale_Comigo-D14836?style=for-the-badge&labelColor=1A2332)](mailto:email@vitorcorreia.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-correia-b91510ab/)
 [![GitHub](https://img.shields.io/badge/GitHub-00BCD4?style=for-the-badge&logo=github&logoColor=white&labelColor=1A2332)](https://github.com/vitor-correia)
 
