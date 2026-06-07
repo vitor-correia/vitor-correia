@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=header&text=Vitor%20Correia&fontSize=40&fontColor=fff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1A2332,0f172a,00BCD4&height=120&section=header&text=Vitor%20Correia&fontSize=40&fontColor=fff&animation=fadeIn" />
 
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=600&lines=Desenvolvedor+Mobile;Especialista+iOS+%26+Android;Transformando+Ideias+em+Apps" alt="Typing SVG" />
@@ -44,6 +44,6 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=vitor-correia&color=00BCD4&style=for-the-badge&label=VISUALIZAÇÕES+DE+PERFIL)
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1A2332,0f172a,00BCD4&height=100&section=footer" />
   
 </div>
