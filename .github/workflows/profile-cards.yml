@@ -23,6 +23,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          NAME: Vitor Correia
           TIME_ZONE: America/Sao_Paulo
           THEME: github_dark
           AUTO_PUSH: false
@@ -38,6 +39,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          NAME: Vitor Correia
           TIME_ZONE: America/Sao_Paulo
           THEME: default
           AUTO_PUSH: false

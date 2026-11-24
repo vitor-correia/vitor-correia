@@ -49,29 +49,34 @@ I work primarily with **Flutter**, **Dart**, **Kotlin**, **Swift**, **Java**, an
 
 ### GitHub Analytics
 
-<p>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitor-correia/vitor-correia/stats/github_dark/0-profile-details.svg">
-    <img height="175" alt="Profile details" src="https://raw.githubusercontent.com/vitor-correia/vitor-correia/stats/default/0-profile-details.svg">
+    <img width="100%" alt="Profile details" src="https://raw.githubusercontent.com/vitor-correia/vitor-correia/stats/default/0-profile-details.svg">
   </picture>
 </p>
 
-<p>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitor-correia/vitor-correia/stats/github_dark/3-stats.svg">
-    <img height="170" alt="GitHub Stats" src="https://raw.githubusercontent.com/vitor-correia/vitor-correia/stats/default/3-stats.svg">
+    <img width="49%" alt="GitHub Stats" src="https://raw.githubusercontent.com/vitor-correia/vitor-correia/stats/default/3-stats.svg">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitor-correia/vitor-correia/stats/github_dark/2-most-commit-language.svg">
-    <img height="170" alt="Top Languages" src="https://raw.githubusercontent.com/vitor-correia/vitor-correia/stats/default/2-most-commit-language.svg">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=vitor-correia&theme=github-dark-blue&hide_border=true">
-    <img height="170" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=vitor-correia&theme=default&hide_border=true">
+    <img width="49%" alt="Top Languages" src="https://raw.githubusercontent.com/vitor-correia/vitor-correia/stats/default/2-most-commit-language.svg">
   </picture>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitor-correia/vitor-correia/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/vitor-correia/vitor-correia/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=vitor-correia&theme=github-dark-blue&card_width=700&border=30363D&border_radius=4.5">
+    <img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=vitor-correia&theme=default&card_width=700&border=E1E4E8&border_radius=4.5">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitor-correia/vitor-correia/output/github-contribution-grid-snake-dark.svg">
+    <img width="100%" alt="Contribution graph snake" src="https://raw.githubusercontent.com/vitor-correia/vitor-correia/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
