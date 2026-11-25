@@ -13,14 +13,22 @@ I work primarily with **Flutter**, **Dart**, **Kotlin**, **Swift**, **Java**, an
 ### Open Source Contributions
 
 <!--START_SECTION:oss-->
-<img src="https://img.shields.io/badge/Upstream%20PRs-4-1F6FEB?style=flat-square" alt="Upstream PRs"> <img src="https://img.shields.io/badge/Open-4-2EA043?style=flat-square" alt="Open PRs"> <img src="https://img.shields.io/badge/Projects-4-0284C7?style=flat-square" alt="Projects">
+<img src="https://img.shields.io/badge/Upstream%20PRs-4-1F6FEB?style=flat-square" alt="Upstream PRs"> <img src="https://img.shields.io/badge/Merged-1-8957E5?style=flat-square" alt="Merged PRs"> <img src="https://img.shields.io/badge/Open-3-2EA043?style=flat-square" alt="Open PRs"> <img src="https://img.shields.io/badge/Projects-4-0284C7?style=flat-square" alt="Projects">
 
 <details open>
-<summary><b>Open / Under Review</b> · 4 pull requests</summary>
+<summary><b>Merged</b> · 1 pull request</summary>
+
+| Repository | Pull Request | Merged |
+| --- | --- | --- |
+| [CommandLineCoding/Elephant](https://github.com/CommandLineCoding/Elephant) | [fix(mob): prevent NewChatPage overflow in landscape with keyboard](https://github.com/CommandLineCoding/Elephant/pull/466) | 2026-11-25 |
+
+</details>
+
+<details open>
+<summary><b>Open / Under Review</b> · 3 pull requests</summary>
 
 | Repository | Pull Request | Opened |
 | --- | --- | --- |
-| [CommandLineCoding/Elephant](https://github.com/CommandLineCoding/Elephant) | [fix(mob): prevent NewChatPage overflow in landscape with keyboard](https://github.com/CommandLineCoding/Elephant/pull/466) | 2026-11-24 |
 | [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | [Synchronize Category.aai access in log4j-1.2-api (#4512)](https://github.com/apache/logging-log4j2/pull/4525) | 2026-11-24 |
 | [foresightmobile/flutter_markdown_plus](https://github.com/foresightmobile/flutter_markdown_plus) | [Run test/all.dart in validate.sh and register missing tests](https://github.com/foresightmobile/flutter_markdown_plus/pull/185) | 2026-11-24 |
 | [kerberjg/color_palette_extractor.dart](https://github.com/kerberjg/color_palette_extractor.dart) | [Fix RangeError when image has fewer colors than paletteSize](https://github.com/kerberjg/color_palette_extractor.dart/pull/3) | 2026-11-24 |
